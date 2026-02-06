@@ -9,7 +9,7 @@
 
 > https://coolify.aiuse.com.br/
 
-### 🧱 N8N
+### 🧱 N8N (Coolify)
 ##### aiuse.agent@gmail.com
 > https://n8n.aiuse.com.br/
 
@@ -17,11 +17,11 @@
 ##### aiuse.agent@gmail.com
 > https://chatwoot.aiuse.com.br/app/login
 
-## 🧩 Easypanel 
+### 🧩 Easypanel 
 ##### allowsystem.ai@gmail.com
 > http://31.97.169.214:3000
 
-## 🧱 N8N 
+### 🧱 N8N (Easypanel)
 ##### allowsystem.ai@gmail.com
 > https://n8n-ai-n8n.pueq1b.easypanel.host/
 
