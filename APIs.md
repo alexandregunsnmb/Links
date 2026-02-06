@@ -3,7 +3,7 @@
 > https://platform.openai.com/settings/organization/api-keys
 
 
-### ⚫ Elevenlabs
+### 🎚 Elevenlabs
 ##### allowsystem.ai@gmail.com
 > https://elevenlabs.io/app/developers/api-keys
 
@@ -16,5 +16,5 @@
 > https://uazapi.dev/interno?p=conta
 
 ### 📟 Z-Api
-##### allowsystem.ai@gmail.com
+##### allowsystem.ai@gmail.com (pw sem ponto)
 > https://www.z-api.io/
