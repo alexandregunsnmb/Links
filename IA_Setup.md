@@ -1,4 +1,4 @@
-# Setup de TRrabalho
+# Setup de Trabalho
 
 ### 🪀 Hostinger
 > https://hpanel.hostinger.com/
@@ -16,10 +16,6 @@
 ### 🎫 Chatwoot  
 ##### aiuse.agent@gmail.com
 > https://chatwoot.aiuse.com.br/app/login
-
-### ⚫ Openai API
-##### allowsystem.ai@gmail.com
-> https://platform.openai.com/settings/organization/api-keys
 
 ## 🧩 Easypanel 
 ##### allowsystem.ai@gmail.com
