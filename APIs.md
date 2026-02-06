@@ -1,4 +1,4 @@
-### ⚫ Openai API
+### ⚫ Openai API [Mermaid](https://platform.openai.com/settings/organization/api-keys).
 ##### allowsystem.ai@gmail.com
 > https://platform.openai.com/settings/organization/api-keys
 
