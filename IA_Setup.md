@@ -1,19 +1,28 @@
 # Setup de TRrabalho
 
-## 🪀 Hostinger
+### 🪀 Hostinger
 > https://hpanel.hostinger.com/
 
-## 🛍 Coolify
+### 🛍 Coolify
+##### allowsystem.ai@gmail.com
 > http://72.61.35.244:8000/
 
 > https://coolify.aiuse.com.br/
 
-## 🧱 N8N
+### 🧱 N8N
 ##### aiuse.agent@gmail.com
 > https://n8n.aiuse.com.br/
 
+### 🎫 Chatwoot  
+##### aiuse.agent@gmail.com
+> https://chatwoot.aiuse.com.br/app/login
+
+### ⚫ Openai API
+##### allowsystem.ai@gmail.com
+> https://platform.openai.com/settings/organization/api-keys
+
 ## 🧩 Easypanel 
-#### allowsystem.ai@gmail.com
+##### allowsystem.ai@gmail.com
 > http://31.97.169.214:3000
 
 ## 🧱 N8N 
@@ -22,7 +31,7 @@
 
 ### 🟢 Evolution
 > https://n8n-ai-evolution-api.pueq1b.easypanel.host/manager/
-#### ALLOWAPIEFRDR3456FRGTEDFFG
+##### ALLOWAPIEFRDR3456FRGTEDFFG
 
-## SupaBase 
+### 📗 SupaBase 
 > https://supabase.com/dashboard/org/iidmsnxdkqvjuihlsoiw
