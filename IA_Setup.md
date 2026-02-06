@@ -29,5 +29,5 @@
 > https://n8n-ai-evolution-api.pueq1b.easypanel.host/manager/
 ##### ALLOWAPIEFRDR3456FRGTEDFFG
 
-### 📗 SupaBase 
+### 📗 SupaBase (Easypanel)
 > https://supabase.com/dashboard/org/iidmsnxdkqvjuihlsoiw
