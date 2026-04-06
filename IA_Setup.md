@@ -31,3 +31,8 @@
 
 ### 📗 SupaBase (Easypanel)
 > https://supabase.com/dashboard/org/iidmsnxdkqvjuihlsoiw
+
+### 💌 SendGrind   
+##### aiuse.agent@gmail.com
+> https://app.sendgrid.com/
+
