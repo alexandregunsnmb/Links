@@ -1,6 +1,7 @@
 # Setup de Trabalho
 
 ### 🪀 Hostinger
+##### allowsystem.ai@gmail.com
 > https://hpanel.hostinger.com/
 
 ### 🛍 Coolify
