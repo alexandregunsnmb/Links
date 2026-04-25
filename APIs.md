@@ -18,6 +18,9 @@
 ##### allowsystem.ai@gmail.com
 > https://elevenlabs.io/app/developers/api-keys
 
+### 🎚 HeyGen
+> https://www.heygen.com/
+
 ### 🛢 AIRTABLE
 ##### allowsystem.ai@gmail.com
 > https://airtable.com/appvkFSCzLiYtIkKu/tbloZtRLaYHFNqJ5D/viw6ZqVcFRh0MnhKV?blocks=hide
