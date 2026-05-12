@@ -28,6 +28,8 @@
 
 ### 🟢 Evolution
 > https://n8n-ai-evolution-api.pueq1b.easypanel.host/manager/
+
+> http://n8n-ai-evolution-api.pueq1b.easypanel.host/manager
 ##### ALLOWAPIEFRDR3456FRGTEDFFG
 
 ### 📗 SupaBase (Easypanel)
